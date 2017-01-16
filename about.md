@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Justin.
+Hi, my name's Justin.
 
 I'm a robotics system engineer by day, and hope to create my own friendly robots by night. I've worked in industrial robotics in the past and now in agricultural research robotics with the Australian Centre for Field Robotics at the University of Sydney. With a strong background in the mechanical design of machines and robots, I'm looking to build on my software and electronics skills and hopefully develop educational robotic kits. My aim is to develop a kit that makes robotics cheap and accessible (<$100) while still applying advanced robotics concepts, such as path planning, control algorithms and machine vision
 
@@ -17,5 +17,5 @@ At this stage, a lot of the inspiration for the code is from the (Control of Mob
 ### Contact me
 
 [@robolitybytes](https://twitter.com/robolitybytes)
-
+[robolity GitHub](https://github.com/robolity)
 [robolity@gmail.com](mailto:robolity@gmail.com)
