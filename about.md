@@ -17,5 +17,7 @@ At this stage, a lot of the inspiration for the code is from the (Control of Mob
 ### Contact me
 
 [@robolitybytes](https://twitter.com/robolitybytes)
-[robolity GitHub](https://github.com/robolity)
+
+[Robolity on GitHub](https://github.com/robolity)
+
 [robolity@gmail.com](mailto:robolity@gmail.com)
